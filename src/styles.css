@@ -1,0 +1,31 @@
+body {
+  background-color: #000;
+  color: #fff;
+  font-size: 18px;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.name {
+  color: rgb(177, 68, 68);
+}
+.dad,
+.mum {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 24px;
+}
+.dad {
+  color: rgb(9, 126, 60);
+}
+.mum {
+  color: pink;
+}
+.marcus {
+  color: red;
+  font-size: 25px;
+}
