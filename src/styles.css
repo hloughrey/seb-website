@@ -1,6 +1,6 @@
 body {
-  background-color: #000;
-  color: #fff;
+  background-color: cyan;
+  color: #000;
   font-size: 18px;
 }
 
@@ -20,12 +20,20 @@ main {
   font-size: 24px;
 }
 .dad {
-  color: rgb(9, 126, 60);
+  color: rgb(252, 21, 206);
 }
 .mum {
-  color: pink;
+  color: rgb(219, 109, 221);
 }
-.marcus {
-  color: red;
-  font-size: 25px;
+.ambulance {
+  color: rgb(12, 77, 13);
+  font-size: larger;
+}
+
+.ambulance-img {
+  width: 550px;
+}
+
+.sweet {
+  color: aqua;
 }
